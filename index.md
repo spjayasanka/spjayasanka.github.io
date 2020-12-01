@@ -36,6 +36,6 @@ goods in building their dream homes.</p>
 
 <h1>Project Architecture and Description</h1>
   
-  <img src ="capturre.jpg">
+  <img src ="https://github.com/spjayasanka/spjayasanka.github.io/blob/main/Capture.JPG">
 
 
