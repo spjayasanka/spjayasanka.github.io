@@ -38,6 +38,8 @@ goods in building their dream homes.</p>
   
   <img src ="https://github.com/spjayasanka/spjayasanka.github.io/blob/main/Capture.JPG">
   
+  <img src = "https://raw.githubusercontent.com/spjayasanka/spjayasanka.github.io/main/Capture.JPG">
+  
 <h1>The ER diagram for the system</h1>  
 
 <img src = "https://github.com/spjayasanka/spjayasanka.github.io/blob/main/Untitled%20Diagram(4)(2)-page-001.jpg">
