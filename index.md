@@ -41,6 +41,9 @@ goods in building their dream homes.</p>
 <h1>The ER diagram for the system</h1>  
 
 <img src = "https://raw.githubusercontent.com/spjayasanka/spjayasanka.github.io/main/Untitled%20Diagram(4)(2)-page-001.jpg">
+
+<h1>Work Break-down Structure of the project </h1>
+<img src = "https://raw.githubusercontent.com/spjayasanka/spjayasanka.github.io/main/WBS-page-001.jpg">
   
   
 
