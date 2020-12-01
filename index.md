@@ -36,6 +36,6 @@ goods in building their dream homes.</p>
 
 <h1>Project Architecture and Description</h1>
   
-  <img src ="https://drive.google.com/file/d/1lM0R1pIReesGCX2n-9afvdPk8GfVbK2P/view?usp=sharing">
+  <img src ="capturre.jpg">
 
 
