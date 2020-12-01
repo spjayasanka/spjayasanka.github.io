@@ -17,7 +17,7 @@ the project is to make a strong connection between our client and his customers 
 web-based platform. This will help the customers also for finding the products they want easily</p>
 
 
-<h2>Scope of Development Project</h2>
+<h1>Scope of Development Project</h1>
 
 <p>This online system is designed for the hardware shop to interact with the customers easily. All
 the products that are available in the hardware are added to the website and their quantity.
@@ -32,4 +32,10 @@ hardware store by offering product specifications, quality certificates, product
 recommendations, correct product usage instructions, technical support, and many other features
 that will keep the home builders of today and tomorrow better informed in purchasing hardware
 goods in building their dream homes.</p>
+
+
+<h1>Project Architecture and Description</h1>
+  
+  <img src ="https://drive.google.com/file/d/1lM0R1pIReesGCX2n-9afvdPk8GfVbK2P/view?usp=sharing">
+
 
