@@ -45,6 +45,8 @@ goods in building their dream homes.</p>
 <h1>Work Break-down Structure of the project </h1>
 <img src = "https://raw.githubusercontent.com/spjayasanka/spjayasanka.github.io/main/WBS-page-001.jpg">
   
+  <h1>Use case Diagram of the project </h1>
+<img src = "https://github.com/spjayasanka/spjayasanka.github.io/blob/main/Use%20case-page-001.jpg">
   
 
 
